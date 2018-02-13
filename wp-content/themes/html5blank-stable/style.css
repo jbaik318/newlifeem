@@ -92,8 +92,8 @@ input:focus {
 
 }
 /* nav */
-.nav {
-
+.row {
+	width: 100%;
 }
 /* sidebar */
 .sidebar {
