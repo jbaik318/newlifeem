@@ -37,29 +37,29 @@
 			<header class="header clear" role="banner">
 				
 				<!-- nav -->
-				<nav class="navbar navbar-light bg-light">
+				<nav class="navbar navbar-expand-sm navbar-light bg-light">
+					<!-- logo -->
+					<a class="navbar-brand" href="#"><strong>New Life English Ministry</strong></a>	
+					<!-- /logo -->
 					
-					<div class="row">
-						<!-- logo -->
-						<span class="col-md-4">
-							<a class="navbar-brand h1" href="#">New Life English Ministry</a>	
-						</span>
-						<!-- /logo -->
-							
-						<!-- menu -->
-						<div class="col-md-2 offset-md-4">
-							<a class="nav-link" href="#">About Us</a>
-						</div>
-						<div class="col-md-2">
-							<a class="nav-link" href="#">Calendar</a>
-						</div>
-						<!-- /menu -->
-					</div> 
-					
-				<!--	<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    					<span class="navbar-toggler-icon"></span>
-  					</button> -->
-					
+					<!-- button -->
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+						 <span class="navbar-toggler-icon"></span>
+					</button>
+					<!-- /button -->
+
+					<!-- menu -->
+					<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="#">About Us</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">Calendar</a>
+							</li>
+						</ul>
+					</div>
+					<!-- /menu -->
 				</nav>
 				<!-- /nav -->
 				
