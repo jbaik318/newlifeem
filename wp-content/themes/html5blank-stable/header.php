@@ -30,38 +30,38 @@
 	</head>
 	<body <?php body_class(); ?>>
 
+		<!-- header -->
+		<header class="header clear" role="banner">
+				
+			<!-- nav -->
+			<nav class="navbar navbar-expand-sm navbar-light bg-light">
+				<!-- logo -->
+				<a class="navbar-brand" href="#"><strong>New Life English Ministry</strong></a>	<!-- add logo here -->
+				<!-- /logo -->
+					
+				<!-- button -->
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+					 <span class="navbar-toggler-icon"></span>
+				</button>
+				<!-- /button -->
+
+				<!-- menu -->
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a class="nav-link" href="#">About Us</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Calendar</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /menu -->
+			</nav>
+			<!-- /nav -->
+				
+		</header>
+		<!-- /header -->
+		
 		<!-- wrapper -->
 		<div class="wrapper">
-
-			<!-- header -->
-			<header class="header clear" role="banner">
-				
-				<!-- nav -->
-				<nav class="navbar navbar-expand-sm navbar-light bg-light">
-					<!-- logo -->
-					<a class="navbar-brand" href="#"><strong>New Life English Ministry</strong></a>	
-					<!-- /logo -->
-					
-					<!-- button -->
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-						 <span class="navbar-toggler-icon"></span>
-					</button>
-					<!-- /button -->
-
-					<!-- menu -->
-					<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-						<ul class="navbar-nav ml-auto">
-							<li class="nav-item">
-								<a class="nav-link" href="#">About Us</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">Calendar</a>
-							</li>
-						</ul>
-					</div>
-					<!-- /menu -->
-				</nav>
-				<!-- /nav -->
-				
-			</header>
-			<!-- /header -->
